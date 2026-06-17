@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# macOS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# QuantumBot runtime files
+config.json
+status_bot.json
+comandi_bot.jsonl
+comandi_state.json
+engine.pid
+engine.lock
+registro_trade.csv
+quantumbot.db
+quantumbot.db-*
+*.log
+report_quantumbot.txt
+report_quantumbot.json
+report_quantumbot.csv
+report_sqlite_*.png
+.quantumbot_matplotlib/
+
+# Local test folders
+qb_*_test/

@@ -1,0 +1,4 @@
+pandas>=2.0
+ccxt>=4.0
+matplotlib>=3.8
+pyinstaller>=6.0
