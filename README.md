@@ -1,5 +1,10 @@
 # QuantumBot v2.0 Official
 
+This repository contains the official modular v2.0 release of QuantumBot.
+
+The original v1.0 stable version is available here:
+https://github.com/lorenzo-fois/QuantumBot
+
 QuantumBot è un'app desktop Python per **simulazione trading crypto**, dashboard locale, reportistica dati e analisi delle performance.
 
 La versione v2.0 è la base modulare ufficiale: mantiene le funzioni della build stabile precedente e separa il progetto in file più leggibili, senza trasformarlo in un sistema di trading reale.
