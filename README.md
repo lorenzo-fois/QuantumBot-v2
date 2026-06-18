@@ -142,6 +142,13 @@ Questa build è pensata come base stabile modulare per:
 - Eventuale restyling grafico futuro
 - Eventuale valutazione CustomTkinter solo dopo stabilità confermata
 
-## Disclaimer
 
-Il progetto è in modalità simulazione. Qualsiasi uso legato a investimenti reali richiederebbe test, controlli di rischio, validazione, conformità normativa e piena responsabilità dell'utilizzatore.
+## Copyright and License
+
+QuantumBot v2.0 Official is proprietary software.
+
+Copyright © 2026 Lorenzo Fois. All rights reserved.
+
+No permission is granted to copy, modify, distribute, sublicense, publish, sell,
+resell, rent, host, or use this software or its source code for commercial
+purposes without prior written authorization from the author.
